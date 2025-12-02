@@ -75,6 +75,7 @@ public class DFS {
     }
     //3. Detect Cycle in a Graph
     public static boolean hasCycle(int n, int[][] edges) {
+        //3, {0,1},{1,2},{2,0}
         List<List<Integer>> graph = new ArrayList<>();
         for (int i = 0; i < n; i++) graph.add(new ArrayList<>());
         for (int[] e : edges) graph.get(e[0]).add(e[1]);

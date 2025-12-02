@@ -1,6 +1,5 @@
 package com.gs.dsa.Utility;
 
-import com.gs.dsa.Test.BinarySearch;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
