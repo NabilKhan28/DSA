@@ -1,4 +1,4 @@
-package com.gs.dsa.Test;
+package com.gs.dsa;
 
 public class FloodFill {
     public static int[][] floodFill(int[][] image, int sr, int sc, int newColor) {

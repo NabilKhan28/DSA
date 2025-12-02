@@ -1,7 +1,5 @@
 package com.gs.dsa;
 
-import com.gs.dsa.Test.CountOfConnectedNodes;
-import com.gs.dsa.Test.WordSearch;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;

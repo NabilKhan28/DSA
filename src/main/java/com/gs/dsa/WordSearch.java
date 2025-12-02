@@ -1,4 +1,4 @@
-package com.gs.dsa.Test;
+package com.gs.dsa;
 
 public class WordSearch {
     public static boolean wordSearch(char[][] board, String word) {

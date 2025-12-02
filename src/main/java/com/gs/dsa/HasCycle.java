@@ -1,4 +1,4 @@
-package com.gs.dsa.Test;
+package com.gs.dsa;
 
 import java.util.ArrayList;
 import java.util.List;
